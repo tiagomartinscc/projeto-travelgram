@@ -7,6 +7,8 @@ Foco na estilização usando **Flexbox**
 display: flex;
 ```
 
+Demo: <https://tiagomartinscc.github.io/projeto-portal-de-noticias>
+
 <img src="assets/project/project.png">
 
 <img src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1712670610276.svg&w=1920&q=100">
