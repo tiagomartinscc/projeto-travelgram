@@ -7,7 +7,7 @@ Foco na estilização usando **Flexbox**
 display: flex;
 ```
 
-Demo: <https://tiagomartinscc.github.io/projeto-portal-de-noticias>
+Demo: <https://tiagomartinscc.github.io/projeto-travelgram/>
 
 <img src="assets/project/project.png">
 
